@@ -17,9 +17,7 @@ O objetivo deste projeto é explorar a recomendação de filmes com base nas ava
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-
+   
 Instale as Dependências:
 
 pip install -r requirements.txt
