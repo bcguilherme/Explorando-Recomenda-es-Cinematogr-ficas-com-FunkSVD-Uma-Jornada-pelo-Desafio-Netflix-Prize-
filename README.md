@@ -11,7 +11,6 @@ O objetivo deste projeto é explorar a recomendação de filmes com base nas ava
 
 ## Como Usar
 
-### 1. Carregamento e Pré-processamento dos Dados
 
 ```python
 # Carregar bibliotecas
